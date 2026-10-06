@@ -1,3 +1,5 @@
+"Want to test these commands interactively? Open or clone pandas_cheat_sheet.ipynb and run each block with sample data."
+
 ```python
 import pandas as pd
 import numpy as np
